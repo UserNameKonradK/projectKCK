@@ -1,0 +1,2 @@
+g++ -g -o RunningGameOptions main.cpp FileModel.cpp FileView.cpp FileController.cpp MagicTilesModel.cpp ResultModel.cpp ResultView.cpp ResultController.cpp MagicTilesView.cpp MagicTilesController.cpp MenuModel.cpp MenuView.cpp MenuController.cpp -lncurses
+./RunningGameOptions
